@@ -1,8 +1,10 @@
 # Bangkit 2024 Batch 2 Capstone Team - Product Track
 ## C242-PS142 - StudyPath
 ![All Members](../assets/all-member.png)
-![Mobile](../assets/mobile.png)
-![Web](../assets/web.png)
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="../assets/mobile.png" style="max-width: 100%; height: auto;" alt="Mobile" />
+  <img src="../assets/web.png" style="max-width: 100%; height: auto;" alt="Web" />
+</div>
 
 ## Team Member
 | 🎓 **Name** | 🏫 **University** | 📂 **Learning Path** | 🌐 **GitHub Profile** | 🔗 **LinkedIn Profile** |
