@@ -1,5 +1,9 @@
 # Bangkit 2024 Batch 2 Capstone Team - Product Track
 ## C242-PS142 - StudyPath
+![All Members](../assets/all-member.png)
+![Mobile](../assets/mobile.png)
+![Web](../assets/web.png)
+
 ## Team Member
 | 🎓 **Name** | 🏫 **University** | 📂 **Learning Path** | 🌐 **GitHub Profile** | 🔗 **LinkedIn Profile** |
 |:-|:-|:-|:-|:-|
@@ -70,7 +74,7 @@
 
 **Cloud Architecture:**
 
-![Swagger](../assets/cloud-architecture.png)
+![Cloud Architecture](../assets/cloud-architecture.png)
 
 **Google Cloud's pricing calculator:**
 
